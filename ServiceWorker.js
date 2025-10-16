@@ -1,9 +1,9 @@
-const cacheName = "Fenikkel-Climbing Log-0.2";
+const cacheName = "Fenikkel-Climbing Log-0.3";
 const contentToCache = [
-    "Build/v0.2.loader.js",
-    "Build/v0.2.framework.js",
-    "Build/v0.2.data",
-    "Build/v0.2.wasm",
+    "Build/v0.3.loader.js",
+    "Build/v0.3.framework.js",
+    "Build/v0.3.data",
+    "Build/v0.3.wasm",
     "TemplateData/style.css"
 
 ];
